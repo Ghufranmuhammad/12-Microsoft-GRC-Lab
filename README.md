@@ -37,5 +37,17 @@ Simulates GRC use cases leveraging Microsoft Purview audit logs for privileged a
 * Control implementation tracking and gap remediation
 * Compliance reporting and risk communication for executive management
 
+## Control Testing & Evidence Management
+The lab demonstrates end-to-end GRC operations:
+* **Control identification:** Mapping security requirements to a structured control library.
+* **Evidence collection:** Building standardized evidence repositories and request lists.
+* **Evidence evaluation:** Applying quality pillars (Relevance, Completeness, Authenticity, Accuracy, Timeliness, Traceability).
+* **Control testing:** Executing realistic test procedures and documenting workpapers.
+* **Findings:** Analyzing test results and identifying control gaps.
+* **Remediation:** Formulating corrective action plans for failed controls.
+* **Retesting:** Re-evaluating fixed controls to verify operational effectiveness.
+* **Compliance mapping:** Tracing the complete GRC evidence chain from business risk to control closure.
+
+
 ## Disclaimer
 This is a fictional/simulation project created for educational and portfolio purposes.
